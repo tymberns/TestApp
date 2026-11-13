@@ -17,4 +17,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/YOUR_GITHUB_USERNAME_LOWERCASE/longjob-test:latest
+          tags: ghcr.io/tymberns/longjob-test:latest
